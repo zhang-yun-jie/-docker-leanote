@@ -1,5 +1,5 @@
 **注意：本仓库已删除大文件并强制提交。**
-
+lite和nodb里面的不能用
 **Attention: this repo has removed big file and force commited.**
 
 ---
